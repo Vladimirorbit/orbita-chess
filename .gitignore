@@ -1,0 +1,3 @@
+*.pycv
+__pycache__
+venv
